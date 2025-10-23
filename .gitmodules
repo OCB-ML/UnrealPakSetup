@@ -1,0 +1,3 @@
+[submodule "UE_Pack/Engine/Binaries/Win64"]
+	path = UE_Pack/Engine/Binaries/Win64
+	url = https://github.com/allcoolthingsatoneplace/UnrealPakTool
